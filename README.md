@@ -13,7 +13,7 @@ LazyCoin is a currency that quantifies lack of activity. With LazyCoin, the more
 
 ## The Minting Process: Proof of Non-Work
 
-Minting new LazyCoin requires participation from at least two parties: one or more Generators, and one Verifier. The role of the Generator is to do nothing. The Verifier observes the Generator to ensure that he or she is doing nothing. When the Generator finishes producing LazyCoin, the Verifier \textit{signs} a blank LazyCoin, making note of the date and the amount of LazyCoin produced. The Verifier gives the newly minted, certified LazyCoin to the Generator to complete the minting process. 
+Minting new LazyCoin requires participation from at least two parties: one or more Generators, and one Verifier. The role of the Generator is to do nothing. The Verifier observes the Generator to ensure that he or she is doing nothing. When the Generator finishes producing LazyCoin, the Verifier *signs* a blank LazyCoin, making note of the date and the amount of LazyCoin produced. The Verifier gives the newly minted, certified LazyCoin to the Generator to complete the minting process. 
 
 The smallest unit of LazyCoin is minted in one minute.
 
@@ -21,7 +21,7 @@ During the minting process, the Verifier may choose to continue his or her norma
 
 Proper verification requires that all parties remain in line of sight for the duration of the minting process.
 
-The Generator should never do anything while minting LazyCoin. However, under certain circumstances, and with prior approval by a Verifier, the Generator may pretend to do something.
+The Generator should never do anything while minting LazyCoin, with the exception of the normal human metabolic process. However, under certain circumstances, and with prior approval by a Verifier, the Generator may pretend to do something.
 
 
 ## Currency Cap
