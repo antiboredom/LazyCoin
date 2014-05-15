@@ -1,13 +1,21 @@
 LazyCoin
 ========
 
+LazyCoin is a physical currency that anyone can mint by doing nothing. The protocol for generating LazyCoin is described in our white paper below, and [here as a pdf](http://saaaam.s3.amazonaws.com/lazycoin_whitepaper.pdf). You can also [read the patent here](http://saaaam.s3.amazonaws.com/lazycoin_patent.pdf), and the blog post at  http://lav.io/2014/05/lazycoin-officially-patented/
+
+If you have suggestions for changing the minting protocol, or any other aspect of the project, please feel free to make a pull request.
+
+# White Paper
+
 A new currency that stores non-value.
 
 ## Introduction
 
 > "Why do you refuse?"
-> "I would prefer not to."
-> - Herman Melville
+
+> I would prefer not to."
+
+> Herman Melville
 
 LazyCoin is a currency that quantifies lack of activity. With LazyCoin, the more you do nothing the more value you create. 
 
