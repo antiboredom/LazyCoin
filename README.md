@@ -1,5 +1,5 @@
-LazyCoin
-========
+:moneybag: LazyCoin :moneybag:
+==============================
 
 LazyCoin is a physical currency that anyone can mint by doing nothing. The protocol for generating LazyCoin is described in our white paper below, and [here as a pdf](http://saaaam.s3.amazonaws.com/lazycoin_whitepaper.pdf). You can also [read the patent here](http://saaaam.s3.amazonaws.com/lazycoin_patent.pdf), and the blog post at  http://lav.io/2014/05/lazycoin-officially-patented/
 
